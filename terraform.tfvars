@@ -1,0 +1,6 @@
+ami_id        = "ami-05ffe3c48a9991133"
+instance_type = "t2.micro"
+instance_tag  = "MyEC2Instance"
+bucket_name   = "victoriousorirewebspace2025628-bucket"
+bucket_tag    = "MyS3Bucket"
+aws_region    = "us-east-1"
