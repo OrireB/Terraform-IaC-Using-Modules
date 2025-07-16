@@ -86,7 +86,7 @@ terraform-iac/
 - **terraform.tfvars** – Optional: custom variable overrides
 [terraform.tfvars](https://github.com/OrireB/Terraform-IaC-Using-Modules/commit/749583d6d2027ac825dde0c4e3dd7f96694e6987#diff-ea319dda5a35ac9ff7b01d3483e0ca0cf231d35d8d94a789bab86328aba7cb15)
 
-# modules.tf** – Directory that contains reusable Terraform modules for different AWS resources.  
+# modules – Directory that contains reusable Terraform modules for different AWS resources.  
 
 ## module ec2/ – Initial EC2 instance setup
 
@@ -144,6 +144,6 @@ terraform apply
   
 ---
 
-## Authors
-Orire Bankole
-DevOps • Cloud • IaC • AWS • Terraform
+# Authors
+**Orire Bankole**
+ • DevOps • Cloud • IaC • AWS • Terraform
